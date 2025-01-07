@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 Tive o privilégio de colaborar no artigo científico "Explorando espaços de aprendizagem no metaverso: um estudo sobre tecnologia, design e ergonomia". <br><br>Fico feliz em compartilhar esse trabalho, e você pode conferir o artigo completo <a href ="https://ojs.observatoriolatinoamericano.com/ojs/index.php/olel/article/view/7383"> neste link</a> </p>
+<p align="left">📚 Tive o privilégio de colaborar no artigo científico "Explorando espaços de aprendizagem no metaverso: um estudo sobre tecnologia, design e ergonomia". <br><br>Fico feliz em compartilhar esse trabalho, e você pode conferir o artigo completo (link https://ojs.observatoriolatinoamericano.com/ojs/index.php/olel/article/view/7383)</p>
 
 ###
 
@@ -92,13 +92,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MedusaGabriel/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedusaGabriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedusaGabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
