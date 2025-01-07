@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 Tive o privilégio de colaborar no artigo científico "Explorando espaços de aprendizagem no metaverso: um estudo sobre tecnologia, design e ergonomia". <br><br>Fico feliz em compartilhar esse trabalho, e você pode conferir o artigo completo (link https://ojs.observatoriolatinoamericano.com/ojs/index.php/olel/article/view/7383)</p>
+<p align="left">📚 Tive o privilégio de colaborar no artigo científico "Explorando espaços de aprendizagem no metaverso: um estudo sobre tecnologia, design e ergonomia". <br><br>Fico feliz em compartilhar esse trabalho, e você pode conferir o artigo completo <a href ="https://ojs.observatoriolatinoamericano.com/ojs/index.php/olel/article/view/7383"> neste link</a> </p>
 
 ###
 
