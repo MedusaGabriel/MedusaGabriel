@@ -81,7 +81,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MedusaGabriel/MedusaGabriel/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/MedusaGabriel/MedusaGabriel/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
