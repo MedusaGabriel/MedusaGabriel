@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel, mas pode me chamar de Medusa🐍!</p>
+<p align="left">Meu nome é Gabriel, mas pode me chamar de Medusa 🐍! Sou um desenvolvedor em constante evolução, sempre buscando aprimorar minhas habilidades. Tenho ampla experiência em Front-End, com foco em UI/UX, criando interfaces intuitivas e agradáveis.<br>Além disso, tive o privilégio de colaborar em um artigo científico intitulado 'Explorando espaços de aprendizagem no metaverso: um estudo sobre tecnologia, design e ergonomia'. Você pode conferir o artigo completo [neste link]( https://ojs.observatoriolatinoamericano.com/ojs/index.php/olel/article/view/7383)</p>
+
+###
+
+<img align="right" height="200" src="https://i.imgur.com/manCBd9.gif"  />
 
 ###
 
@@ -11,12 +15,6 @@
 ###
 
 <p align="left">Sou um gamer apaixonado por jogos 2D e Soulslike, além de ser um grande fã de Life is Strange, um jogo que marcou minha vida de forma especial. Adoro praticar minhas habilidades no teclado e, por isso, passo horas jogando. Meu gosto musical é eclético, indo de Filho do Dono a Dona Aranha, sempre com uma boa mistura de estilos!</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/R-muyCtDWBsAAAAj/butterfly-effect-life-is-strange.gif"  />
-</div>
 
 ###
 
