@@ -87,18 +87,8 @@ Você pode acessar o artigo completo <a href="https://ojs.observatoriolatinoamer
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedusaGabriel&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MedusaGabriel&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=MedusaGabriel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
-</div>
-
 <br>
 
 <img src="https://raw.githubusercontent.com/MedusaGabriel/MedusaGabriel/output/snake.svg" alt="Snake animation" />
 
 <br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MedusaGabriel/count.svg?" />
-</div>
